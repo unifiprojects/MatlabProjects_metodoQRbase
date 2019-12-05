@@ -1,4 +1,3 @@
-format long
 clc
 clear
 A = [4 3 2 1
