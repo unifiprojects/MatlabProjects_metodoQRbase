@@ -8,4 +8,4 @@ A = [4 3 2 1
 [T, Q, R] = metodoQRbase(A, 10000);
 T
 schur = schur(A)
-autovalori = eig(A)
+autovalori_real = eig(A)

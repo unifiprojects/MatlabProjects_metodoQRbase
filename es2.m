@@ -8,6 +8,6 @@ B = [8 -1 -5
 T
 autoval_complessi = eig(T(1:2, 1:2))
 schur = schur(B)
-autovalori = eig(B)
+autovalori_real = eig(B)
 % la matrice T assume una forma triangolare a blocchi in quanto esistono 2
 % autovalori complessi coniugati
